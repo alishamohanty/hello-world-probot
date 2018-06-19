@@ -1,7 +1,7 @@
 # demo-probot-app
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that 
-It is a repository which checks the working of Hello World Probot app(demo-probot-app)named here.
+> A GitHub App built with [Probot](https://github.com/probot/probot) 
+> It is a repository which checks the working of Hello World Probot app(demo-probot-app named here).
 The code here is tested and works perfectly fine.
 Whenever an issue is made in this repository the bot will comment Hello-World and an email will be sent who created the issue by bot saying Hello World.
 
